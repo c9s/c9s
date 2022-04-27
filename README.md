@@ -13,23 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ### <div align="center">I'm Yo-an Lin</div>  
   
 
 - 🔭 I’m currently working on [BBGO](https://github.com/c9s/bbgo), A crypto trading bot framework  
-  
-
-- 🌱 I’m currently learning Rust and Solidity  
-  
-
+- 🌱 I’m currently learning Rust and Solidity
+- 🗣 I speak English, Mandarin Chinese.  I'm currently learning Korean 🇰🇷  , Japanese 🇯🇵 .
+ 
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
