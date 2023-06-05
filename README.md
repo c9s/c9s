@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### <div align="center">I'm Yo-an Lin</div>  
   
 
 - 🔭 I’m currently working on [BBGO](https://github.com/c9s/bbgo), A crypto trading bot framework  
